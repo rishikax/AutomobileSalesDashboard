@@ -1,5 +1,3 @@
-# AutomobileSalesDashboard
-
 # AutoNation Sales Dashboard
 
 This project features an **interactive Power BI dashboard** developed to analyze and visualize AutoNation’s sales data. The dashboard provides key insights into sales performance across various dimensions such as car models, years, salespersons, and commissions.
